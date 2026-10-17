@@ -1,7 +1,7 @@
 <div align="center">
-
-<img src="assets/profile-banner.svg" alt="Ahasan Hasan — Data Analyst and Data Enthusiast" width="100%" />
-
+  <img src="assets/python-welcome.svg"
+       alt="Animated Python welcome message from Ahasan Hasan"
+       width="100%" />
 </div>
 
 ## About Me

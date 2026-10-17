@@ -59,6 +59,27 @@ Version Control · Project Documentation
 
 ---
 
+## 🏅 Professional Certifications
+
+- 🟦 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — Microsoft
+- 📊 **Google Data Analytics Professional Certificate** — Google
+- 🗄️ **MySQL Specialist** — Maven Analytics
+
+---
+
+## 🎓 Education
+
+- **Master's Degree in Data Analytics and Project Management**  
+  Oulu University of Applied Sciences (OAMK), Finland
+
+- **Bachelor's Degree in International Business**  
+  Centria University of Applied Sciences, Finland
+
+- **Bachelor of Business Administration (BBA) in Finance and Banking**  
+  International University of Business Agriculture and Technology (IUBAT), Bangladesh
+
+---
+  
 ## Areas of Expertise
 
 - **Supply Chain Analytics:** Inventory, Procurement, Demand Forecasting
@@ -67,24 +88,34 @@ Version Control · Project Documentation
 
 ---
 
-## Featured Project
 
-### 🏦 Bank Customer Churn Analysis
+## 🚀 My Data Engineering Journey
 
-**Python · Pandas · NumPy · Matplotlib · Seaborn**
+I'm expanding my expertise in **Data Analytics and Business Intelligence** toward **Data Engineering and Analytics Engineering**. My focus is on learning how to build reliable data pipelines, automate workflows, and prepare high-quality data for business intelligence.
 
-Analyzed banking customer data to explore churn patterns through data cleaning, exploratory analysis, visualizations, and feature engineering.
+### 🛠️ Currently Learning
 
-> Explore my repositories to see the code, notebooks, and analysis workflows.
+- 🐍 **Python & SQL:** Data Processing, Automation & Advanced Querying
+- 🔄 **ETL/ELT Pipelines:** Data Integration & Transformation
+- 🔧 **dbt:** Data Modeling, Testing & Documentation
+- 🏗️ **Data Warehousing:** Star Schema & Dimensional Modeling
+- ☁️ **Cloud Platforms:** Microsoft Azure, Snowflake & BigQuery
+- ⚙️ **Apache Airflow:** Workflow Scheduling & Orchestration
+- 📦 **Docker & Git:** Containerization & Version Control
 
----
+### 🔨 Planned Data Engineering Projects
 
-## Currently Learning & Building
+| Project | Technologies | Status |
+|---|---|---|
+| End-to-End ETL Pipeline | Python, SQL, PostgreSQL | 📚 Planned |
+| Analytics Engineering Pipeline | dbt, SQL, Data Warehouse | 📚 Planned |
+| Automated Data Pipeline | Apache Airflow, Python | 📚 Planned |
+| Cloud Data Pipeline | Azure Data Factory, Azure SQL | 📚 Planned |
 
-- Advanced SQL and Python
-- Power BI dashboards and reporting
-- dbt and analytics engineering
-- Practical business analytics projects
+### 🎯 Career Goal
+
+To combine my background in **Finance, Supply Chain Analytics, and Business Intelligence** with Data Engineering to develop automated, scalable, and reliable data solutions.
+  
 
 ---
 

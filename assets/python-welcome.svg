@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="370" viewBox="0 0 1100 370" role="img" aria-label="Animated Python welcome banner for Ahasan Hasan">
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#061b17"/><stop offset="1" stop-color="#10382d"/></linearGradient>
+  <style>
+   .mono{font-family: 'DejaVu Sans Mono',Consolas,Monaco,monospace; font-size:21px}
+   .code{fill:#b7efd2}
+   .muted{fill:#729b8c}
+   .title{fill:#eefcf4;font:700 27px 'DejaVu Sans',Arial,sans-serif}
+   .output{fill:#ddffe7;font:600 25px 'DejaVu Sans',Arial,sans-serif}
+   .small{fill:#99ceba;font:17px 'DejaVu Sans',Arial,sans-serif}
+   .line{opacity:0;animation:appear .15s linear forwards}
+   .l1{animation-delay:.45s}.l2{animation-delay:1.7s}.l3{animation-delay:3.0s}.l4{animation-delay:4.3s}
+   .result{opacity:0;animation:appear .35s ease forwards;animation-delay:5.5s}
+   .cursor{animation:blink 1s steps(1) infinite}
+   .pulse{animation:pulse 3s ease-in-out infinite}
+   @keyframes appear{to{opacity:1}}
+   @keyframes blink{50%{opacity:0}}
+   @keyframes pulse{50%{opacity:.46}}
+   @media (prefers-reduced-motion:reduce){.line,.result{opacity:1;animation:none}.cursor,.pulse{animation:none}}
+  </style>
+ </defs>
+ <rect width="1100" height="370" rx="20" fill="url(#bg)"/>
+ <rect x="15" y="15" width="1070" height="340" rx="14" fill="#081e1a" stroke="#28664e" stroke-width="2"/>
+ <path d="M29 67H1071" stroke="#245a45"/>
+ <circle cx="47" cy="41" r="7" fill="#f17a77"/><circle cx="70" cy="41" r="7" fill="#f6bf67"/><circle cx="93" cy="41" r="7" fill="#76d8a0"/>
+ <text x="550" y="48" text-anchor="middle" class="mono muted" font-size="17">ahasan_hasan / welcome.py</text>
+ <text x="48" y="102" class="mono muted"># Welcome to my data analytics space</text>
+ <g class="line l1"><text x="48" y="145" class="mono code"><tspan fill="#80dcb3">name</tspan> = <tspan fill="#ffe1a6">"Ahasan Hasan"</tspan></text></g>
+ <g class="line l2"><text x="48" y="180" class="mono code"><tspan fill="#80dcb3">role</tspan> = <tspan fill="#ffe1a6">"Data Analyst | Data Enthusiast"</tspan></text></g>
+ <g class="line l3"><text x="48" y="215" class="mono code"><tspan fill="#7ac9f2">print</tspan>(<tspan fill="#ffe1a6">f"Hi, I'm {name}!"</tspan>)</text></g>
+ <g class="line l4"><text x="48" y="250" class="mono code"><tspan fill="#7ac9f2">print</tspan>(<tspan fill="#ffe1a6">"Thanks for visiting my GitHub profile!"</tspan>)</text></g>
+ <g class="result"><path d="M48 274H1052" stroke="#255642"/><text x="48" y="307" class="output">Hi, I'm Ahasan Hasan! 👋</text><text x="48" y="337" class="small">Thanks for visiting my GitHub profile. Let's turn data into insights.</text></g>
+ <rect class="cursor pulse" x="1030" y="236" width="11" height="18" rx="2" fill="#7cedae"/>
+</svg>
